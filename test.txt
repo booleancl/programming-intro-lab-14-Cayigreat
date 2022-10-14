@@ -1,0 +1,5 @@
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/0_createDatabase.sql
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/1_createUsersTable.sql
+/i C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/2_createPostsTable.sql
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/3_createComments.sql
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/4_seedData.sql
