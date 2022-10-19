@@ -1,5 +1,13 @@
 C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/0_createDatabase.sql
 C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/1_createUsersTable.sql
-/i C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/2_createPostsTable.sql
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/2_createPostsTable.sql
 C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/3_createComments.sql
 C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/migrations/4_seedData.sql
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/data/users.csv
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/data/posts.csv
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/data/comentarios.csv
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/queries/5_posts-with-users.sql
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/queries/6_comments-with-users.sql
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/queries/7_lazy-user.sql
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/queries/8_posts-and-comments.sql
+C:/Users/javil/intro_dev/programming-intro-lab-14-Cayigreat/queries/9_join-between.sql
